@@ -1,2 +1,2 @@
 # FileConversionMacro
-VBA Excel Macro to convert a PDF to Text document
+VBA Excel Macro to convert a word document into a PDF document
