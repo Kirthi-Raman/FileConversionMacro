@@ -2,7 +2,8 @@
 
 VBA Excel Macro to convert a word document into a PDF document
 
-## steps
+## Steps
 
-1. Enter inputs in cell B1 and B2.
-2. Error details are updated by code in B3 and B4
+1. Enter filename in cell B1 and file baseplate in cell B2.
+2. Run the bot. Bot converts word file into PDF.
+3. Error details are updated by code in B3 and B4
